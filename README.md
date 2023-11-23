@@ -25,3 +25,9 @@ Copy the environment variable using `cp env .env` and configure the database con
 
     php spark serve
 The server will be run on `http://localhost:8080`
+
+### Login
+```
+email: haikal@gmail.com
+pass: 12345678
+```
