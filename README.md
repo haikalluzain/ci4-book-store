@@ -18,7 +18,7 @@
 ### Get Started
 Copy the environment variable using `cp env .env` and configure the database connection based on your setting.
 
-    php spark migrate
+    php spark migrate --all
     php spark db:seed DatabaseSeeder
 
 ### Run server
